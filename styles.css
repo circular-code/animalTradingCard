@@ -12,6 +12,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     padding: 10px;
     max-width: 342px;
+    width: 342px;
     background: #fff;
 }
 
@@ -25,9 +26,10 @@ img {
     margin-bottom: 10px;
 }
 
-.container, .info {
+.container,
+.info {
     border: 1px solid rgb(230, 230, 230);
-    padding: 0px 10px 10px 10px;
+    padding: 0 10px 10px 10px;
 }
 
 .container {
